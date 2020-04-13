@@ -1,4 +1,4 @@
-Token = ' Njk2MDI4NzkwNDY3NTkyMjEy.XoixhA.kC-YJyzFzJY3FCGkpbeSHHq9TVE ' # bot token
+Token = os.environ.get('BOT_TOKEN') # bot token
 
 POST_ID = 696078729277079662 # post id to read reactions from
 
