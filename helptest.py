@@ -14,6 +14,6 @@ ROLES = {
 # exlcude this roles from counting
 EXCROLES = {}
 
-MAX_ROLES_PER_USER = 1 # max ammount of roles a user can have 
+MAX_ROLES_PER_USER = 3 # max ammount of roles a user can have 
 
 
