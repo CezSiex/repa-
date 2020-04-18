@@ -1,3 +1,4 @@
+aiohttp-3.6.2-cp36-cp36m-manylinux1_x86_64.whl
 aiohttp==3.6.2
 apturl==0.5.2
 asn1crypto==0.24.0
