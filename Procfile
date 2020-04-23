@@ -1,1 +1,1 @@
-worker: python3 Vip-bot.py
+worker: python Vip-bot.py
