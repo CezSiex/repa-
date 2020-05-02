@@ -1,6 +1,5 @@
 import discord
 from discord import utils
- 
 import helptest
  
 class MyClient(discord.Client):
